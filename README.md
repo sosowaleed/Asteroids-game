@@ -10,6 +10,9 @@ This repository contains the source code for an Asteroids game built using JavaF
 - **Persistent data**: The game saves and displays previous attempts, including the date, time, and points scored.
 - **Game over interface**: Displays points and elapsed time, and allows the player to restart, view previous attempts, or exit the game.
 
+## Gameplay
+![Gameplay]((https://youtu.be/pl0HB1B9T8o))
+
 ## Installation
 
 1. Clone the repository:
